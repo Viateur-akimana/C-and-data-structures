@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**", // Include your project folder
+                "C:\MinGW\bin>", // Include the path to your C++ compiler's include directory
+                "C:/path/to/your/additional/include", // Include any additional directories your project needs
+            ],
+            // ...other configuration settings
+        }
+    ],
+    "version": 4
+}
